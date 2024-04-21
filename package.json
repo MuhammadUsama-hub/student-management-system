@@ -1,0 +1,19 @@
+{
+  "name": "mus-student-management-system",
+  "version": "1.0.0",
+  "description": "cli based system works on opps principle to enroll students and assign them a unique id and check their status .",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Usama",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
